@@ -1,0 +1,9 @@
+target/
+logs/
+allure-report/
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+Thumbs.db
